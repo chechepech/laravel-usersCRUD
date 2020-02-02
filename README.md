@@ -4,9 +4,9 @@
 
 >### LIST OF USERS CRUD
 
-![Image List of users](https://github.com/chechepech/usersCRUD-laravel/crud.png)
+![Image List of users](https://github.com/chechepech/usersCRUD-laravel/blob/master/crud.PNG)
 <br/>
-![Image CRUD](https://github.com/chechepech/usersCRUD-laravel/crud_2.png)
+![Image CRUD](https://github.com/chechepech/usersCRUD-laravel/blob/master/crud_2.PNG)
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
